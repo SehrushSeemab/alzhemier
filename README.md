@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Alzheimer's Disease Classification Banner" width="100%">
+  <img src="images/Banner.png" alt="Alzheimer's Disease Classification Banner" width="100%">
 </p>
 
 # Machine Learning-Based Alzheimer's Disease Stage Classification Using MRI, Cognitive and Demographic Data
