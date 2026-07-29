@@ -1,4 +1,19 @@
+-------------------------------------------------------
+ Machine Learning-Based Alzheimer's Disease
+ Stage Classification
+
+ MRI • XGBoost • Random Forest • Data Science
+
+ Brain image | AI | Charts | ROC Curve
+-------------------------------------------------------
+
 # Machine Learning-Based Alzheimer's Disease Stage Classification Using MRI, Cognitive and Demographic Data
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Project Overview
 
